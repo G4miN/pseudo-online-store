@@ -1,0 +1,21 @@
+{
+  "name": "pseudo-online-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G4miN/pseudo-online-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/G4miN/pseudo-online-store/issues"
+  },
+  "homepage": "https://github.com/G4miN/pseudo-online-store#readme"
+}
